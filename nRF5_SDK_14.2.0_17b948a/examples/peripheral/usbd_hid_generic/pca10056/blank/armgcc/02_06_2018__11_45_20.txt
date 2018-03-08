@@ -1,0 +1,9 @@
+Logic Assert Information
+Version: 1.2.17
+System: Linux; 4.14.8-041408-generic; #201712200555 SMP Wed Dec 20 10:57:38 UTC 2017; x86_64
+Crash Id: 
+File: /home/build/ob_logic/Source/Environment.cpp
+Function: SetInstanceNumberInSharedMemory, Line: 608
+Error: Unable to create shared memory to hold instance number, Qt error code: 1, Qt error string: QSharedMemoryPrivate::initKey: unable to set key on lock
+Most recent messages: 
+
